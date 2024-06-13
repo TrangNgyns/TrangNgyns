@@ -5,9 +5,9 @@
 
 - ⚡ Fun fact~ **I take emo histories seriously in fact I can recommend you three albums right now**
 
-<img align="center" alt="Coding" width="200" src="https://m.media-amazon.com/images/I/51l5nQgf8fL._UF1000,1000_QL80_.jpg">
-<img align="center" alt="Coding" width="200" src="https://f4.bcbits.com/img/a2626390310_10.jpg">
-<img align="center" alt="Coding" width="200" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg">
+<img align="left" alt="album cover for this is what the edge of your seat was made for by bring me the horizon, the cover featuring two sparrows flying against a bright background with some dirt on the air." width="200" src="https://m.media-amazon.com/images/I/51l5nQgf8fL._UF1000,1000_QL80_.jpg">
+<img align="left" alt="album cover for coup de grace by see you space cowboy of two women holding each others face, eyes closed and smiling." width="200" src="https://f4.bcbits.com/img/a2626390310_10.jpg">
+<img align="left" alt="album cover for three cheers for sweet revenge by famous emo band my chemical romance. the image is of a woman and a man taller than her, facing each other with angsty expressions and a frown, both against the dark sky and splattered in red blood." width="200" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg">
 
 
 <!--
