@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Trang Nguyen (づ ᴗ _ᴗ)づ♡</h1>
+<h3 align="center">Adult artist & aspiring animator from Vietnam</h3>
+
+- 🌱 I’m currently learning **Web Development**
+
+- ⚡ Fun fact **I take emo histories seriously**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **TrangNgyns/TrangNgyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
