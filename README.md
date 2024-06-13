@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **Web Development~**
 
-- ⚡ Fun fact~ **I take emo histories seriously and can recommend you three albums right now**
+- ⚡ Fun fact~ **I take emo histories seriously in fact I can recommend you three albums right now**
 
-<img align="right" alt="Coding" width="400" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg">
+<img align="left" alt="Coding" width="200" src="https://m.media-amazon.com/images/I/51l5nQgf8fL._UF1000,1000_QL80_.jpg">
+<img align="center" alt="Coding" width="200" src="https://f4.bcbits.com/img/a2626390310_10.jpg">
+<img align="right" alt="Coding" width="200" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg">
 
 
 <!--
