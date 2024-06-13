@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **Web Development~**
 
 - ⚡ Fun fact~ **I take emo histories seriously and can recommend you three albums right now**
-(img align="right" alt="Coding" width="400" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg")
+
+<img align="right" alt="Coding" width="400" src="https://m.media-amazon.com/images/I/81aECQlJWwL._UF1000,1000_QL80_.jpg">
 
 
 <!--
